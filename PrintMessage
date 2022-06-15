@@ -1,0 +1,17 @@
+/**
+ *  The PrintMessage program.
+ *  @author Joseph
+ *  @version June 14, 2022
+ */
+public class PrintMessage
+{
+    /** Prints a message on the screen. */
+   public static void main(String[] args)
+   {
+      System.out.println("\"Several slashes are sometimes seen,\"");
+      System.out.println("said Sally. \"I've said so.\" See?");
+      System.out.println("");
+      System.out.println("\\ / \\\\ // \\\\\\ ///");
+   }
+}
+
